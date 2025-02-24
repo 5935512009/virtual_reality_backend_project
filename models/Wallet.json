@@ -1,0 +1,26 @@
+[
+    {
+        "wallet_id":"11",
+        "user_id":"1",
+        "crypto_id":"11",
+        "balance":"2500"
+    },
+    {
+        "wallet_id":"22",
+        "user_id":"2",
+        "crypto_id":"11",
+        "balance":"2300"
+    },
+    {
+        "wallet_id":"33",
+        "user_id":"3",
+        "crypto_id":"12",
+        "balance":"2700"
+    },
+    {
+        "wallet_id":"44",
+        "user_id":"4",
+        "crypto_id":"14",
+        "balance":"3000"
+    }
+]

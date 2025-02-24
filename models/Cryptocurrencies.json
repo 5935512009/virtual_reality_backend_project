@@ -1,0 +1,26 @@
+[
+    {
+        "crypto_id":"11",
+        "name":"bitcoin",
+        "Symbol":"BTC",
+        "Price":"95,000"
+    },
+    {
+        "crypto_id":"12",
+        "name":"Stablecoin",
+        "Symbol":"USDT",
+        "Price":"1"
+    },
+    {
+        "crypto_id":"13",
+        "name":"binancecoin",
+        "Symbol":"BNB",
+        "Price":"650"
+    },
+    {
+        "crypto_id":"14",
+        "name":"Ethereum",
+        "Symbol":"ETH",
+        "Price":"2700"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "user_id":"1",
+        "username":"pasut",
+        "email":"Pasut@hotmail.com",
+        "password":"testpass"
+    },
+    {
+        "user_id":"2",
+        "username":"aaa",
+        "email":"aaa@hotmail.com",
+        "password":"testpassaaa"
+    },
+    {
+        "user_id":"3",
+        "username":"bbb",
+        "email":"bbb@hotmail.com",
+        "password":"testpassbbb"
+    },
+    {
+        "user_id":"4",
+        "username":"ccc",
+        "email":"ccc@hotmail.com",
+        "password":"testpassccc"
+    }
+]
